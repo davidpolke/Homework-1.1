@@ -28,7 +28,7 @@ body {
  */
 
 .card {
-  background-color: rgb(48, 48, 48);
+  background-color: rgb(38, 38, 38);
   color: #fff;
   border-radius: 5px;
   padding: 15px;
@@ -39,8 +39,8 @@ body {
 }
 
 .main-image {
-  width: 60%;
-  margin: 50px auto;
+  width: 80%;
+  margin: 10px auto;
   display: block;
 }
 
@@ -52,6 +52,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  
 }
 
 .left_boxes {
@@ -64,11 +65,12 @@ body {
   width: 100px;
   height: 50px;
   background-color: #a3a3a3;
-  border-radius: 15px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 5px 5px 5px 0px;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
 }
 
 .see_text {
@@ -85,11 +87,12 @@ body {
   width: 280px;
   height: 110px;
   background-color: #24ff62;
-  border-radius: 15px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 5px 0px 5px 5px;
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
 
 }
 
